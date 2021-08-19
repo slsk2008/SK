@@ -1,0 +1,439 @@
+
+
+h3{
+   font-family: verdana;
+   font-weight: bold;
+   font-size: 1cm;
+   background: linear-gradient(to right,#00ffe5,#001eff);
+   -webkit-text-fill-color:transparent;
+   -webkit-background-clip:text;
+   margin: 0;
+   margin-left: 30px;
+   
+   
+   
+  
+   
+}
+
+
+
+
+
+
+
+body{
+    
+    
+    border-radius: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+p{
+    text-align: justify;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+    color: white;
+    width: 750px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+
+    
+}
+.box-a{
+    background-image:radial-gradient(#7a27f7,#5c00e6) ; ;
+    border-radius: 15px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    width: 800px;
+    border: rgb(20, 5, 72) double;
+    margin-left: 40px;
+    box-shadow: 3px 3px 16px rgba(0, 0, 0, 3);
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    transform: 1s;
+    color:rgb(255, 255, 255);
+    background: linear-gradient(135deg,rgba(255,255,255,0.1));
+
+
+
+
+}
+
+.box-d{
+    background-image:radial-gradient(#7a27f7,#5c00e6) ; ;
+    border-radius: 15px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    width: 800px;
+    border: rgb(20, 5, 72) double;
+    margin-left: 40px;
+    box-shadow: 3px 3px 16px rgba(0, 0, 0, 3);
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    color:rgb(255, 255, 255);
+    
+
+
+}
+
+.box-e{
+    background-image:radial-gradient(#7a27f7,#5c00e6) ; ;
+    border-radius: 15px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    width: 800px;
+    border: rgb(20, 5, 72) double;
+    margin-left: 40px;
+    box-shadow: 3px 3px 16px rgba(0, 0, 0, 3);
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    color:rgb(255, 255, 255);
+    
+
+
+}
+
+
+.box-b{
+    background-image:radial-gradient(#7a27f7,#5c00e6) ; ;
+    border-radius: 15px;
+    background: transparent;
+    width: 300px;
+    border: rgb(20, 5, 72) double;
+    margin-left: 40px;
+    box-shadow: 3px 3px 16px rgba(0, 0, 0, 3);
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    margin-left:265px ;
+    color:rgb(255, 255, 255);
+    background-color: transparent;
+    
+    
+    
+
+    
+}
+
+.sk{
+    
+    
+    background-image:radial-gradient(#7a27f7,#5c00e6) ; ;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 10px;
+    width: 784px;
+    border: rgb(31, 5, 72) double;
+    margin-left: 40px;
+    box-shadow: 3px 3px 16px rgba(0, 0, 0, 3);
+    color:rgb(255, 255, 255);
+    margin-bottom: 60px;
+    margin-top: 60px;
+    margin: auto;
+    width: 300px;
+    background-color: transparent;
+    
+
+    
+    
+
+}
+
+.sk .fg{
+
+}
+
+.usk{
+    
+}
+
+.sk label{
+
+    display: block;
+    padding: 10px;
+    color: transparent;
+}
+
+.sk input[type="text"],[type="email"],[type="textarea"]{
+
+    
+    width:200px;
+    padding:8px;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+    border: none;
+    display: flex;
+    margin-left: 30px;
+    margin-bottom: 1px;
+    
+
+   
+    
+
+    
+   
+    
+   
+}
+
+
+.sbt{
+
+    width: 150px;
+    padding: 10px 15 px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    height: 35px;
+    margin-left: 60px;
+    margin-top: 20px;
+    overflow: hidden;
+
+
+   
+    
+    
+
+
+}
+
+.sbt:hover{
+
+    background-color:#2196f3;
+    color: #255784;
+    box-shadow: 0 0 10px #2196f3;
+    transform: scale(1.1);
+
+    
+
+}
+
+@keyframes blinking{
+    0%{opacity: 0;}
+    25%{opacity: .5;}
+    50%{opacity: 1;}
+    75%{opacity: 0.5;}
+    100%{opacity: 0;}
+}
+
+.hi{
+
+    margin-top: 10px;
+    
+
+    
+
+}
+
+
+.sk.usk{
+
+    background-color: black;
+
+}
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.box-a:hover{
+
+    transform: scale(1.1);
+    box-shadow: 2px 2px;
+    
+
+}
+
+.box-d:hover{
+
+    transform: scale(1.1);
+    box-shadow: 2px 2px;
+    
+
+}
+.sk:hover{
+
+    transform: scale(1.1);
+    box-shadow: 2px 2px;
+    
+
+}
+.box-b:hover{
+
+    transform: scale(1.1);
+    box-shadow: 2px 2px;
+    
+
+
+}
+.box-e:hover{
+
+    transform: scale(1.1);
+    box-shadow: 2px 2px;
+    
+
+
+}
+
+
+.wrapper:hover{
+
+    transform: scale(1.1);
+    box-shadow: 2px 2px;
+    
+
+}
+
+body{
+    background-image: linear-gradient(#6666ff,#8c66ff);
+    background-image: url(../Back.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    justify-content: center;
+}
+
+   
+
+.wrapper{
+
+    display: inline-flex;
+    background-image:radial-gradient(#7a27f7,#5c00e6) ; ;
+    border-radius: 15px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    width: 800px;
+    border: rgb(20, 5, 72) double;
+    margin-left: 40px;
+    box-shadow: 3px 3px 16px rgba(0, 0, 0, 3);
+    margin: auto;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    color:rgb(255, 255, 255);
+    margin-left: 275px;
+    
+}
+
+.wrapper .op{
+    font-weight: 400;
+    font-size: 60px;
+    color: #fff;
+}
+.wrapper .dt{
+    margin-left: 15px;
+    
+}
+
+.wrapper .dt li{
+
+    list-style: none;
+    font-size: 60px;
+    font-weight: 400;
+    color: #FC6D6D;
+    
+}
+
+.wrapper .dt li span{
+
+    position: relative;
+    
+}
+
+.wrapper .dt li span:after{
+
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    
+   
+    
+}
+
+nav{
+    height: 80px;
+    border-radius: 10px;
+    
+    margin-top: 0;
+    background: linear-gradient(to top right, #9900cc 26%, #000066 99%);
+}
+
+nav h1{
+    position: absolute;
+    width: 200px;
+    top: 8px;
+    left: 5%;
+    color: #000;
+    text-transform: uppercase;
+}
+nav ul{
+    float: right;
+    margin-right: 25px;
+    list-style: none;
+
+}
+nav ul li{
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 35px;
+    
+}
+
+nav ul li a{
+    position: relative;
+    padding: 5px 0;
+    font-size: 30px;
+    text-decoration: none;
+    color: ivory;
+     
+     
+    
+
+
+}
+nav h1{
+    color: #FC6D6D;
+    background:linear-gradient(to right, #ff0000 0%, #ff66ff 88%);
+    font-size: 40px;
+    margin: 20px;
+    -webkit-text-fill-color:transparent;
+    -webkit-background-clip:text;
+    
+   
+    
+}
+
+html{
+
+    scroll-behavior: smooth;
+    scroll-snap-type: initial;
+    
+}
+nav ul li a:hover{
+    
+    
+    
+    text-decoration: underline;
+    
+
+}
+
+img{
+
+    size: 0px 2px;
+}
